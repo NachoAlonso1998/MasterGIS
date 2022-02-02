@@ -1,0 +1,52 @@
+.estilo1 { font-weight: 900;
+    font-size:18px;
+    color:red ; 
+}
+
+.estilo2{ font-weight: 900;
+    font-size:18px ;
+    color:orange ; 
+}
+.estilo3{ font-weight: 900; 
+    font-size:18px;
+    color:blue;
+    font-style: italic;
+    text-decoration: underline;
+}
+.estilo4{ font-weight: 900;
+    font-size:18px;
+    color:red;
+    text-decoration: underline;
+}
+.estilo5{ font-size:18px;
+    color: green;
+}
+.estilo6{ font-size:18px;
+    color: green;
+    font-style: italic;
+}
+.estilo7{ font-size:18px;
+    color: rgb(255, 0, 242);
+}
+.estilo8{ font-size:18px;
+    color: green;
+    text-decoration: underline;
+}
+.estilo9{ font-size:18px;
+    color:blue;
+}
+
+.estilo10{ font-size: 35px;
+    color:green;
+    font-weight: 700;
+
+}
+.estilo11{ font-size: 25px;
+    color:blue;
+    font-weight: 700;
+
+}
+
+.tamañoLetra{
+    font-size: 10px;
+}

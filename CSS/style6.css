@@ -1,0 +1,46 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: grey;
+}
+#mainContainer{
+    border: 1px solid red;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#imageContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+#infoContainer{
+    margin-left: 20px;
+}
+
+.genericButton{
+    padding: 7px;
+    border-radius: 7px;
+    
+}
+
+.reservation{
+    background-color: white;
+    border: 2px solid grey;
+}
+
+.presupuesto{
+    background-color: grey; color: white;
+    border: none;
+}
+#button {
+    background-color: #565a56;
+    border: none;
+    color: rgb(8, 8, 8);
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+  }

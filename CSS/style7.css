@@ -1,0 +1,18 @@
+#div1{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    color: greenyellow;
+    background-color: greenyellow;
+}
+
+#general{
+    display:flex;
+    flex-wrap: wrap;
+    
+}
+
+.div1.hover{
+    opacity: 0;
+    cursor: pointer;
+}
