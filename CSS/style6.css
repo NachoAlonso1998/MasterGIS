@@ -1,7 +1,7 @@
 body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: grey;
-}
+} 
 #mainContainer{
     border: 1px solid red;
     display:flex;
